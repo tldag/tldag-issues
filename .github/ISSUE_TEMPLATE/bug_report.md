@@ -7,13 +7,6 @@ assignees: ''
 
 ---
 
-**Select the repository (sub-project) for this proposal**
-Replace the white-space between the [ ] with an "x".
-[ ] tldag-blog
-[ ] tldag-dotnet
-[ ] tldag-issues
-[ ] tldag.github.io
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
